@@ -6,7 +6,7 @@ from telegram.constants import ChatType
 
 # ====================== НАСТРОЙКИ ======================
 TOKEN = "import os
-TOKEN = os.environ.get("TOKEN")
+TOKEN = os.environ.get("8875515761:AAFSlQi2Kz8c4_NKmL3QaAay-qCbzuzeBPU")
 
 # Регулярка для поиска российских номеров телефона
 PHONE_PATTERN = re.compile(
